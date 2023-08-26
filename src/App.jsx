@@ -13,7 +13,7 @@ function App() {
     <div>
       <Navbar />
       <Routes>
-        <Route path="/besafe/" element={<Home />} />
+        <Route path="/cryptoapp/" element={<Home />} />
         <Route path="/SignIn" element={<SignIn />} />
         <Route path="/SignUp" element={<SignUp />} />
         <Route path="/Account" element={<Account />} />

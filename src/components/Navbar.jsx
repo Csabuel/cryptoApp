@@ -47,7 +47,7 @@ function Navbar() {
         <div>
           <ul className="gap-6 hidden md:flex md:flex-row md:text-xl xl:text-2xl ">
             <li className="hover:text-color--secondary transition duration-300 cursor-pointer">
-              <Link to="/besafe/">Home</Link>
+              <Link to="/cryptoapp/">Home</Link>
             </li>
 
             <li className="hover:text-color--secondary transition duration-300 cursor-pointer">
